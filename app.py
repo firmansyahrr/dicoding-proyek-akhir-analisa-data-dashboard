@@ -115,6 +115,7 @@ st.pyplot(fig)
 
 
 # =============== BEST & WORST
+st.subheader("Best and Wors Product Sales")
 fig, ax = plt.subplots(nrows=1, ncols=2, figsize=(35, 15))
  
 colors = ["#90CAF9", "#D3D3D3", "#D3D3D3", "#D3D3D3", "#D3D3D3"]
